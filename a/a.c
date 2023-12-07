@@ -2,9 +2,9 @@
 
 int main()
 {
-    int result = 3 + 1;
+    int result = 3 + 2;
 
-    printf("3 + 1 = %d\n", result);
+    printf("3 + 2 = %d\n", result);
 
     return 0;
 }
